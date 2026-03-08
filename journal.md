@@ -47,3 +47,27 @@ All the hardware for this fella will be M3 or M2. M2 on the cold side, M3 on the
 
 The heat sink was made with a simple projected sketch and pattern. I created a seperate cylindrical core so I didn't have to worry about preserving it for making the fins and then just combined all the bodies (fins and cylinder core) into the one heat sink.
 That's all for today. Next I need to work on adding hardware, budget planning, machineability optimization, and part sourcing. 
+
+
+## Journal Entry 2: 3/8/2026
+Time Spent: 4.5 hours
+
+Uhhh. So JLC told me that they won't do a 67mm long 2mm diameter hole in my heatblock. Crazy !! So... I have to figure out a meltzone adapter. Because they can do an M6 hole apparently! 
+Spoiler alert... I spent 3 hours searching for options that could work or ways to get one custom made. Ugh. 
+First things first I threw together a quick model and drawing of the part I need. The point of the drawing will be clear soon. 
+
+<img width="1766" height="406" alt="image" src="https://github.com/user-attachments/assets/0fb8af26-2427-4621-9f3a-3e7edb67ee65" />
+
+By the way. This drawing is abhorrent. My engineering friend yelled at me when he saw it and said it hurt him. But it gets the point across. 
+
+<img width="402" height="1054" alt="image" src="https://github.com/user-attachments/assets/ede7b168-2191-4656-9e9b-2b1a57b0d257" />
+<img width="378" height="1011" alt="image" src="https://github.com/user-attachments/assets/18ee6b8a-d403-4cae-9d24-71ef1eff7b3d" />
+
+Basically it is a 67mm (shut up) long M6 threaded rod with a 2mm throughbore and an M2 hex drive on the end. These exist for supervolcano and volcano hotends to allow for normal v6 nozzle useage in long blocks.
+This brings us to the first few options. I can adjsut the length of the block slightly (a little shorter or a little longer) to allow for stacking up 2 supervolcano adapters or 1 supervolcano adapter and 3-4 volcano adapters. The first option results in a 100mm ish meltzone... which is literally the max z print height of Quantumania... uhhhhh... Yeah I don't want to do that. The second option is just flat out silly. It would work better, but man is it a lot of possible leak/fail points. And it makes assembly super annoying as you have to heat tighten all 4 or 5 inserts. 
+So after researching those available inserts and doing the math for all the combo possibilities... I decided that I don't want to do that. So, I emailed Misumi. 
+
+I have utilized Misumi before for custom linear shafts, for a combat robot weapon assembly. They allow you to customize it in a lot of ways and it is super affordable! But, they don't have a way to do a hex drive, nor fully threaded (it needs like 2mm of not threaded due to configurator weirdness). I decided to see if it could be done through their "fully threaded stud/bolt" item. This got quite close too! But unfortunately, there is not an option for a through bore. So, I sent them an email, with the drawing/sketch from earlier, basically asking if they had a way to do this part that I was missing. I think they do have a way, I just can't find it, despite spending 2 and a half hours on their site. I waited "on hold" with their chat bot for a while before it eventually said support was not active right now and to send an email. It is like 6:30 AM on a sunday but still I wanted to try.
+Besides that, I will probably try to quote one from JLC if misumi says they cannot do it or if it is too expensive. Which means I need to actually make a proper drawing and I don't know if they can do hex broaching so this might get some weird drive socket. 
+
+That genuinely took way longer than I thought it would. But that's ok. TL;DR, need to use an M6 threaded meltzone, like Chube, and tried to figure out sourcing a custom one. 
