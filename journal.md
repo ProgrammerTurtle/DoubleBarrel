@@ -71,3 +71,34 @@ I have utilized Misumi before for custom linear shafts, for a combat robot weapo
 Besides that, I will probably try to quote one from JLC if misumi says they cannot do it or if it is too expensive. Which means I need to actually make a proper drawing and I don't know if they can do hex broaching so this might get some weird drive socket. 
 
 That genuinely took way longer than I thought it would. But that's ok. TL;DR, need to use an M6 threaded meltzone, like Chube, and tried to figure out sourcing a custom one. 
+
+## Journal Entry 3: 3/15/2026
+Time Spent: 4 hours
+
+Okay, today was pretty much finishing touches for submission. I added some mounting options and made mechanical drawings so I can request proper quotes from JLCCNC for BOM pricing. 
+
+For mounting, I have both a 4 hole top mounting option and a 2 hole side mounting option. This allows for flexibility in mounting. I don't need to worry a ton about how rigid it is because I need to brace at the bottom of the hotend either way. Not saying these won't be rigid, but it is less of an issue. This took about half an hour as I had to go through my various printers and see what mounting options would fit as I want flexibility and versatility. 
+
+I ended up going with: 
+
+<img src="https://user-cdn.hackclub-assets.com/019cf047-dda4-7c05-a758-1147a216067c/Screenshot%202026-03-15%20005530.png" />
+
+This 4 hole mounting up top, which is a 4 hole M3 5.5 x 10mm pattern. This allows a bowden tube/connector to fit. 
+
+<img src="https://cdn.hackclub.com/019cf047-dda4-7c05-a758-1147a216067c/Screenshot%202026-03-15%20005530.png" />
+
+This is the second mounting option, with a matching hole on the opposite side. This is also M3. This option will not be stable without bracing on the end of the hotend. The other option I feel needs end bracing for performance aswell, but technically it is optional. 
+
+As for finishing touches, I just went through and toleranced everything, made my holes have cone ends so they can be drilled properly, etc. 
+I also made drawings! Here are those. 
+
+<img src="https://cdn.hackclub.com/019cf06f-8032-7efa-a67f-9113b47da0f9/Screenshot%202026-03-15%20013903.png" />
+
+This is the heatsink drawing, which calls out all major dimensions and more importantly threaded holes for the heatsink. A little bit messy but very usable and one of my better drawings. This took an hour and a half. 
+
+<img src="https://cdn.hackclub.com/019cf07d-c142-70df-b5b1-6b4c7f4694bc/Screenshot%202026-03-15%20015440.png" /> 
+
+And this is the heater block drawing. This was a little difficult as it was smoothing out the edges of the center flat section, making the part drawings weird as they lacked those center lines. I made it work though, hopefully JLC likes it. 
+
+That took the remaining 3.5 hours of this session, besides submitting for a quote of course. I hate making drawings and need to practice so that is the main reason why it took a hot minute - I had to do some research on proper procedure for calling out threads and whatnot. 
+Once I get the quotes back on Monday, I will submit this project! 
