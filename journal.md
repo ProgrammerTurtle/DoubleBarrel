@@ -1,4 +1,4 @@
-# Journal of the Design and eventual Build Process of my high-performance custom hotend, Double Barrel. 
+<img width="909" height="340" alt="image" src="https://github.com/user-attachments/assets/3868b3a2-737a-43e4-a00e-3aef71908724" /># Journal of the Design and eventual Build Process of my high-performance custom hotend, Double Barrel. 
 ### Parker Rupe
 ### Total Hours: 
 
@@ -102,3 +102,34 @@ And this is the heater block drawing. This was a little difficult as it was smoo
 
 That took the remaining 3.5 hours of this session, besides submitting for a quote of course. I hate making drawings and need to practice so that is the main reason why it took a hot minute - I had to do some research on proper procedure for calling out threads and whatnot. 
 Once I get the quotes back on Monday, I will submit this project! 
+
+## Journal Entry 4: 3/18/2026
+Time Spent: 3 hours
+
+Hi gang. Gonna be a bit more informal with this one because formality gets a bit boring sometimes. 
+So, I got the quotes back. 
+
+<img width="909" height="340" alt="image" src="https://github.com/user-attachments/assets/c390c659-d55d-4f8a-9f48-63f0b8fb8f59" />
+
+I submitted them and soon got an email saying there was an issue. I panicked. I thought they wouldn't be able to machine my heaterblock because of the stupid 80mm long M6 tapped hole. But! The issue was just something with shipping. After I fixed that it actually passed review with no errors. I am amazed. 
+It's a bit expensive though, especially the heatsink, which costs more than the heaterblock somehow. This means I will have to resort to getting the heatsink SLM'd by In3DTec out of aluminum. I also made some changes to the heaterblock that I will show here, but basicallly I just nuked the fillets to save money. I also figured out what I will do for the melt zone adapter - I will be buying two supervolcano adapters and cutting one down to size. 
+
+<img width="563" height="996" alt="image" src="https://github.com/user-attachments/assets/0a9d8f93-6120-4e4f-be08-e426c33ebef4" />
+
+Here's the mew block. Much simpler but still retains the look I was going for. I actually like the chamfers more than the fillets. I had to make some changes to the mechanical drawing aswell to account for the new model and highlight the absurd 80mm long M6 tapped hole, but those changes are not super large so I don't think I will put screenshots. But, they will be uploaded to the repo. 
+
+<img width="510" height="1032" alt="image" src="https://github.com/user-attachments/assets/130c8181-95ba-4229-ac62-d0487fcb86ca" />
+
+That makes this the hotend now, minus screws. Looks pretty cool! 
+Once JLC responds to my new quote, which should happen tonight, I can actually submit this thing. In the meantime, I started finding aliexpress stuff for my BOM. We have: 
+Heaters: https://www.aliexpress.us/item/3256802953795845.html
+Supervolcano Adapters: https://www.aliexpress.us/item/3256805546562989.html
+
+<img width="1437" height="853" alt="image" src="https://github.com/user-attachments/assets/9eaf1fc0-37cd-4b27-b071-6b02a581d10b" />
+
+This is the In3DTec quote for the heatsink, which is a great price. I just have to tap it myself because I don't want to deal with their tapping stuff, but thats fine.
+
+I also need to get quotes for the heatbreak braces. I plan on getting them made by JLC out of 1mm stainless steel, as steel is a poor thermal conductor (and a dissimilar metal from aluminum which helps even more). I have to wait until midnight GMT+8 (10am my time) to submit that quote though as they are running the sheet metal service at very low capacity, and today's capacity is full. 
+
+That's basically it. Optimizing stuff for the correct prices and adjusting my drawings to account for the manufacturability changes took a while. Fusion is also a bit goofy when it comes to chamfers/fillets so I had to deal with that. 
+With any luck, I can submit tomorrow. 
