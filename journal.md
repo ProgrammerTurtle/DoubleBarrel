@@ -1,4 +1,4 @@
-<img width="909" height="340" alt="image" src="https://github.com/user-attachments/assets/3868b3a2-737a-43e4-a00e-3aef71908724" /># Journal of the Design and eventual Build Process of my high-performance custom hotend, Double Barrel. 
+# Journal of the Design and eventual Build Process of my high-performance custom hotend, Double Barrel. 
 ### Parker Rupe
 ### Total Hours: 
 
