@@ -1,4 +1,4 @@
-# Journal of the Design and eventual Build Process of my high-performance custom hotend, Double Barrel. 
+<img width="1548" height="3811" alt="doublebarrelhotendnobg" src="https://github.com/user-attachments/assets/3217bc88-5a6c-4738-b30e-4b683ab4f228" /># Journal of the Design and eventual Build Process of my high-performance custom hotend, Double Barrel. 
 ### Parker Rupe
 ### Total Hours: 
 
@@ -133,3 +133,22 @@ I also need to get quotes for the heatbreak braces. I plan on getting them made 
 
 That's basically it. Optimizing stuff for the correct prices and adjusting my drawings to account for the manufacturability changes took a while. Fusion is also a bit goofy when it comes to chamfers/fillets so I had to deal with that. 
 With any luck, I can submit tomorrow. 
+
+## Journal Entry 5: 3/19/2026
+Time Spent: 2 hours
+
+Okay, I missed the window to quote the braces. Whoops. I will try again tomorrow. As for today, I put the finishing touches on the 3D model, wrote most of the BOM, and worked on formatting my repo. 
+
+I basically just added all the hardware and made colors/materials correct. I modeled M3 stud thermistors and the 80mm heaters myself. 
+
+<img width="486" height="897" alt="image" src="https://github.com/user-attachments/assets/796b7b46-e7cf-488c-960b-67d80cff0f94" />
+
+Here is everything new 
+
+<img width="604" height="803" alt="image" src="https://github.com/user-attachments/assets/10344386-3423-4f02-ac0c-e56c3eb1a25c" />
+
+And finally, here are the renders ! I spent about 10 minutes color matching things and adjusting lighting. 
+
+<img width="900" height="1850" alt="Double Barrel Hotend" src="https://github.com/user-attachments/assets/11da3933-0e06-4a25-8940-128ac2d56bcf" />
+
+<img width="1548" height="3811" alt="doublebarrelhotendnobg" src="https://github.com/user-attachments/assets/42c27ee4-65e3-4008-8139-e43ebdda7246" />
