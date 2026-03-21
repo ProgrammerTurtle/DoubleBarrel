@@ -1,0 +1,14 @@
+Item,Price,Quantity,Source,Useage
+CNC Machined Heatblock,$24.53,1, JLCCNC,Hot Side of Hot End
+SLM Heat SInk,$13.00,1,IN3DTEC,Cold Side of Hot End
+V6 Smooth Heatbreak,$4.00,1,https://www.aliexpress.us/item/3256803198277956.html?,Connect Cold Side to Hot Side
+Supervolcano Adapters,$16,3,https://www.aliexpress.us/item/3256805546562989.html?,"Meltzone, connect v6 nozzle to heatbreak. Buying multiple as I have to cut them to size to reach my desired length"
+V6 Nozzle,$3.50,1,https://www.aliexpress.us/item/3256807882929417.html?,Control extrusion resolution. Plastic comes out of here. 
+Heaters,N/A,,Self Purchasing,Heat Up Block
+Braces,N/A,2,Self Purchasing,Brace hot block against heatsink so the heatbreak doesn't snap
+M3 Stud Thermistors,$9,4,https://www.aliexpress.us/item/2255800218330851.html?,"Monitor Temps, with dual redundancy on each heater"
+M2x5 Screws,$1.65,8,https://www.aliexpress.us/item/3256802094874740.html?,Assembly
+M3x6 Screws ,$1.72,8,https://www.aliexpress.us/item/3256802094874740.html?,Mounting/Bracing
+,,,,
+,,,,
+Total,$73.40,,,
